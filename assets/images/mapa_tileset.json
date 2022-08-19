@@ -1,0 +1,15 @@
+{
+    "columns": 9,
+    "image": "Group1.png",
+    "imageheight": 15,
+    "imagewidth": 135,
+    "margin": 0,
+    "name": "mapa",
+    "spacing": 0,
+    "tilecount": 9,
+    "tiledversion": "1.9.1",
+    "tileheight": 15,
+    "tilewidth": 15,
+    "type": "tileset",
+    "version": "1.8"
+}
